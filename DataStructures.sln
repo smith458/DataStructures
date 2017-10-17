@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.Array", "Queue.Array\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.Priority", "Queue.Priority\Queue.Priority.csproj", "{24F2F80B-E4F1-4C50-AE31-27D014FF7FC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{C13D6ED6-9DE5-4A2D-AE29-8E8C87CB5DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeWordSorter", "BinaryTreeWordSorter\BinaryTreeWordSorter.csproj", "{2809B51F-55A6-4A54-AF6C-589190F30564}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{24F2F80B-E4F1-4C50-AE31-27D014FF7FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F2F80B-E4F1-4C50-AE31-27D014FF7FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F2F80B-E4F1-4C50-AE31-27D014FF7FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13D6ED6-9DE5-4A2D-AE29-8E8C87CB5DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13D6ED6-9DE5-4A2D-AE29-8E8C87CB5DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13D6ED6-9DE5-4A2D-AE29-8E8C87CB5DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13D6ED6-9DE5-4A2D-AE29-8E8C87CB5DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2809B51F-55A6-4A54-AF6C-589190F30564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2809B51F-55A6-4A54-AF6C-589190F30564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2809B51F-55A6-4A54-AF6C-589190F30564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2809B51F-55A6-4A54-AF6C-589190F30564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
